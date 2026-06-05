@@ -1,4 +1,4 @@
-﻿# naik9
+# naik9
 
 This is the repository for **naik9**.
 
@@ -17,4 +17,4 @@ git clone https://github.com/NAIKAA9/naik9.git
 ## Developer Profile
 This repository is created and maintained by **[Eslavath Narasimha Naik](https://github.com/NAIKAA9)**.
 - **GitHub**: [NAIKAA9](https://github.com/NAIKAA9)
-- **LinkedIn**: [Narasimha Naik](https://www.linkedin.com/in/naikaa9)
+- **LinkedIn**: [Narasimha Naik](https://www.linkedin.com/in/eslavathnarasimhanaik)
